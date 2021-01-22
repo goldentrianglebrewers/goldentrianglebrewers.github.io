@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Articles"
+    url: /articles/
+  - title: "Events"
+    url: /events/
+  - title: "Club Competitions & Challenages"
+    url: /club-competitions/
+  - title: "Board of Directors"
+    url: /board-of-directors/
+  - title: "Pay Dues"
+    url: https://squareup.com/store/golden-triangle-brewers
+  # - title: "Sitemap"
+  #   url: /sitemap
