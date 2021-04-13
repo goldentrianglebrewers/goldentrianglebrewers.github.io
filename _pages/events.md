@@ -3,7 +3,7 @@ layout: single
 title: Events
 permalink: /events/
 ---
-The events for 2021 are being currently being researched. This year's events will need to abide by covid protocols.  If you have any ideas, please contact Wick at events@gtrbrewers.org.
+The events for 2021 are being currently being researched. This year's events will need to abide by covid protocols.  If you have any ideas, please contact Wick at <events@gtrbrewers.org>.
 
 Cheers!
  -Wick
