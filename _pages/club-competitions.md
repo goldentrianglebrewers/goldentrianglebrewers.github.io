@@ -37,7 +37,7 @@ Cheers and Good Luck!
 ### Challenge 2: Brewing Draft - June 2021
 
 **Recipe Due May 15th**
-Stay tuned on how to submit your recipe. 
+Stay tuned on how to submit your recipe.
 
 | Brewer | Malt | Yeast | Other |
 | ----------- | ----------- | ----------- | ----------- |
@@ -56,12 +56,12 @@ Stay tuned on how to submit your recipe.
 
 | Match-up      | Winner |
 | ----------- | ----------- |
-| Bryan / Jimmy B      |        |
-| Wick / Richard D   |         |
-| Joe / Richard B   |         |
-| Chris N / Jimmy/Bill |     |
-| Eric / Josh   |         |
-| William / Chris E |
+| Josh / William      |        |
+| Eric / Jimmy/Bill   |         |
+| Bryan / Chris E   |         |
+| Richard D / Joe |     |
+| Chris N / BYE   | Chris N        |
+| Jimmy B / Wick |
 
 ### Challenge 3: Sessions Beers (Under 5% ABV) - August 2021
 
