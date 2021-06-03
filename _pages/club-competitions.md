@@ -36,9 +36,6 @@ Cheers and Good Luck!
 
 ### Challenge 2: Brewing Draft - June 2021
 
-**Recipe Due May 15th**
-Stay tuned on how to submit your recipe.
-
 | Brewer | Malt | Yeast | Other |
 | ----------- | ----------- | ----------- | ----------- |
 | Joe | Flaked Rice | S-04 | Mosaic |
@@ -56,12 +53,29 @@ Stay tuned on how to submit your recipe.
 
 | Match-up      | Winner |
 | ----------- | ----------- |
-| Josh / William      |        |
-| Eric / Jimmy/Bill   |         |
-| Bryan / Chris E   |         |
-| Richard D / Joe |     |
+| Josh / William      |  Josh      |
+| Eric / Jimmy/Bill   |      Jimmy/Bill   |
+| Bryan / Chris E   |    Bryan     |
+| Richard D / Joe |   Joe  |
 | Chris N / BYE   | Chris N        |
-| Jimmy B / Wick |
+| Jimmy B / Wick | Wick |
+
+**Overall Winner: Bryan**
+
+| Standings | Points |
+| ----------- | ----------- |
+| Bryan | 5 |
+| Joe | 5 |
+| Jimmy/Bill | 4 |
+| Chris N | 3 |
+| Eric | 3 |
+| Josh | 3 |
+| Wick | 3 |
+| Chris E | 1 |
+| Jimmy B | 1 |
+| Richard B | 1 |
+| Richard D | 1 |
+| William | 1 |
 
 ### Challenge 3: Sessions Beers (Under 5% ABV) - August 2021
 
