@@ -67,17 +67,44 @@ Cheers and Good Luck!
 | Bryan | 5 |
 | Joe | 5 |
 | Jimmy/Bill | 4 |
-| Chris N | 3 |
 | Eric | 3 |
+| Chris N | 3 |
 | Josh | 3 |
 | Wick | 3 |
+| Richard B | 1 |
 | Chris E | 1 |
 | Jimmy B | 1 |
-| Richard B | 1 |
 | Richard D | 1 |
 | William | 1 |
 
 ### Challenge 3: Sessions Beers (Under 5% ABV) - August 2021
+| Match-up      | Winner |
+| ----------- | ----------- |
+| Josh / Bryan      |  Bryan      |
+| Eric / Wick   |      Eric   |
+| Richard B / Jimmy/Bill |   Jimmy/Bill  |
+| Chris N / Joe   |  Joe       |
+
+**Overall Winner: Eric**
+
+| Standings | Points |
+| ----------- | ----------- |
+| Bryan | 7 |
+| Joe | 7 |
+| Eric | 6 |
+| Jimmy/Bill | 6 |
+| Chris N | 4 |
+| Josh | 4 |
+| Wick | 4 |
+| Richard B | 2 |
+| Chris E | 1 |
+| Jimmy B | 1 |
+| Richard D | 1 |
+| William | 1 |
+
+### Challenge 3: SMaSH - October 2021
+
+### Challenge 3: Brewers Choice - December 2021
 
 ## 2020
  - Last Brewer Standing
