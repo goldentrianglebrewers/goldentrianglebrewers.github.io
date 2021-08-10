@@ -78,6 +78,7 @@ Cheers and Good Luck!
 | William | 1 |
 
 ### Challenge 3: Sessions Beers (Under 5% ABV) - August 2021
+
 | Match-up      | Winner |
 | ----------- | ----------- |
 | Josh / Bryan      |  Bryan      |
