@@ -103,9 +103,33 @@ Cheers and Good Luck!
 | Richard D | 1 |
 | William | 1 |
 
-### Challenge 3: SMaSH - October 2021
+### Challenge 4: SMaSH - October 2021
 
-### Challenge 3: Brewers Choice - December 2021
+| Match-up      | Winner |
+| ----------- | ----------- |
+| Jimmy/Bill / Bryan      |  Jimmy/Bill     |
+| Joe / Wick   |      Joe   |
+| Chris N / Eric |   Eric  |
+| William / BYE   |  William       |
+
+**Overall Winner: Jimmy/Bill**
+
+| Standings | Points |
+| ----------- | ----------- |
+| Jimmy/Bill | 9 |
+| Joe | 9 |
+| Bryan | 8 |
+| Eric | 8 |
+| Chris N | 5 |
+| Josh | 5 |
+| Wick | 5 |
+| Richard B | 2 |
+| William | 2 |
+| Chris E | 1 |
+| Jimmy B | 1 |
+| Richard D | 1 |
+
+### Challenge 5: Brewers Choice - December 2021
 
 ## 2020
  - Last Brewer Standing
