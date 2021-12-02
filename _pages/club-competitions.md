@@ -130,6 +130,7 @@ Cheers and Good Luck!
 | Richard D | 1 |
 
 ### Challenge 5: Brewers Choice - December 2021
+
 | Match-up      | Winner |
 | ----------- | ----------- |
 | Jimmy/Bill / Wick      |  Jimmy/Bill     |
@@ -137,6 +138,7 @@ Cheers and Good Luck!
 | Josh / Eric |   Eric  |
 
 **Overall Winner: Jimmy/Bill**
+
 | Standings | Points |
 | ----------- | ----------- |
 | Jimmy/Bill | 12 |

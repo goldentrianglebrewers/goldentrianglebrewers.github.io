@@ -128,6 +128,7 @@ Congratulations to Jimmy and Bill for winning the 2021 Duels. Below are the comp
 | Richard D | 1 |
 
 ### Challenge 5: Brewers Choice - December 2021
+
 | Match-up      | Winner |
 | ----------- | ----------- |
 | Jimmy/Bill / Wick      |  Jimmy/Bill     |
@@ -135,3 +136,18 @@ Congratulations to Jimmy and Bill for winning the 2021 Duels. Below are the comp
 | Josh / Eric |   Eric  |
 
 **Overall Winner: Jimmy/Bill**
+
+| Standings | Points |
+| ----------- | ----------- |
+| Jimmy/Bill | 12 |
+| Joe | 11 |
+| Eric | 10 |
+| Bryan | 9 |
+| Josh | 6 |
+| Wick | 6 |
+| Chris N | 5 |
+| Richard B | 2 |
+| William | 2 |
+| Chris E | 1 |
+| Jimmy B | 1 |
+| Richard D | 1 |
