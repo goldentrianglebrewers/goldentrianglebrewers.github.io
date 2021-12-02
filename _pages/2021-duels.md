@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Club Competitions and Challenges
-permalink: /club-competitions/
+title: 2021 Duels
+permalink: /2021-duels/
 ---
 ## 2021 Club Duels
 This year we're changing up our intra-club competition. This will hopefully make us brew outside of our comfort zone and be creative. Each participant for each round will receive one point. If you win your "duel" you'll receive another point. Then all of the duel winners will then go up against each other for an overall winner for that round to score an extra point. Each round you can score up to 3 points. These duels are a work in progress, just email Wick at <events@gtrbrewers.org> if you have any suggestions to improve.
@@ -137,21 +137,3 @@ Cheers and Good Luck!
 | Josh / Eric |   Eric  |
 
 **Overall Winner: Jimmy/Bill**
-| Standings | Points |
-| ----------- | ----------- |
-| Jimmy/Bill | 12 |
-| Joe | 11 |
-| Eric | 10 |
-| Bryan | 9 |
-| Josh | 6 |
-| Wick | 6 |
-| Chris N | 5 |
-| Richard B | 2 |
-| William | 2 |
-| Chris E | 1 |
-| Jimmy B | 1 |
-| Richard D | 1 |
-
-## 2020
- - Last Brewer Standing
-  <figure> <img src="/assets/images/2020-last-brewer-standing.jpg"> </figure>
