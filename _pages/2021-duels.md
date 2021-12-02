@@ -4,9 +4,7 @@ title: 2021 Duels
 permalink: /2021-duels/
 ---
 ## 2021 Club Duels
-This year we're changing up our intra-club competition. This will hopefully make us brew outside of our comfort zone and be creative. Each participant for each round will receive one point. If you win your "duel" you'll receive another point. Then all of the duel winners will then go up against each other for an overall winner for that round to score an extra point. Each round you can score up to 3 points. These duels are a work in progress, just email Wick at <events@gtrbrewers.org> if you have any suggestions to improve.
-
-Cheers and Good Luck!
+Congratulations to Jimmy and Bill for winning the 2021 Duels. Below are the competitions we had on an every other month basis.
 
 ### Challenge 1: Makeshift Mashout (May 2021)
 **Ingredients**
