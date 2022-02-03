@@ -3,6 +3,16 @@ layout: single
 title: Club Competitions and Challenges
 permalink: /club-competitions/
 ---
+
+Starting in 2020 we started having regularly scheduled intra-club competitions to help keep our brewing fresh. Let's say there are some beers I (Wick) personally wouldn't have brewed if it weren't for these competitions. Let's say the Vienna Lager I brewed in 2021 will become a staple beer at my house. Also the creativity that has exploaded from these recipes has been great.
+
+If you have any questions, comments, complaints, drop me an email at <events@gtrbrewers.org>.
+
+{% link 2020-last-brewer-standing.md %}
+{% link 2021-duels.md %}
+{% link 2022-duels.md %}
+
+
 ## 2021 Club Duels
 This year we're changing up our intra-club competition. This will hopefully make us brew outside of our comfort zone and be creative. Each participant for each round will receive one point. If you win your "duel" you'll receive another point. Then all of the duel winners will then go up against each other for an overall winner for that round to score an extra point. Each round you can score up to 3 points. These duels are a work in progress, just email Wick at <events@gtrbrewers.org> if you have any suggestions to improve.
 
