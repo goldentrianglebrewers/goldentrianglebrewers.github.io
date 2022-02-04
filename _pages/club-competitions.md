@@ -8,9 +8,9 @@ Starting in 2020 we started having regularly scheduled intra-club competitions t
 
 If you have any questions, comments, complaints, drop me an email at <events@gtrbrewers.org>.
 
-{% link _pages/2020-last-brewer-standing.md %}
-{% link _pages/2021-duels.md %}
-{% link _pages/2022-duels.md %}
+<a href="{% link _pages/2020-last-brewer-standing.md %}">2020 Last Brewer Standing</a>
+<a href="{% link _pages/2021-duels.md %}">2021 Duels</a>
+<a href="{% link _pages/2022-duels.md %}">2022 Duels</a>
 
 
 ## 2021 Club Duels
