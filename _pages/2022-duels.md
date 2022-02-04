@@ -8,7 +8,6 @@ permalink: /2022-duels/
 
 ### Challenge 1: Draw-a-Style (February 2022)
 
-
 | Match-up      | Winner |
 | ----------- | ----------- |
 | Joe (Porter) / Josh (Vienna Lager)   | Josh      |

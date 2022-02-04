@@ -6,7 +6,7 @@ permalink: /2021-duels/
 ## 2021 Club Duels
 Congratulations to Jimmy and Bill for winning the 2021 Duels. Below are the competitions we had on an every other month basis.
 
-### Challenge 1: Makeshift Mashout (May 2021)
+### Challenge 1: Makeshift Mashout (April 2021)
 **Ingredients**
 - Chocolate Malt
 - Dark Invert Syrup
