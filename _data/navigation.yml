@@ -2,12 +2,6 @@
 main:
   - title: "Pay Dues"
     url: https://squareup.com/store/golden-triangle-brewers
-  - title: "Articles"
-    url: /year-archive/
-  - title: "Board of Directors"
-    url: /board-of-directors/
-  - title: "Events"
-    url: /events/
   - title: "Club Competitions & Challenages"
     url: /club-competitions/
     children:
@@ -17,5 +11,12 @@ main:
          url: /2021-duels
        - title: 2022 Club Duels
          url: /2022-duels
+  - title: "Articles"
+    url: /year-archive/
+  - title: "Board of Directors"
+    url: /board-of-directors/
+  - title: "Events"
+    url: /events/
+
   # - title: "Sitemap"
   #   url: /sitemap
