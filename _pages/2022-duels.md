@@ -4,15 +4,17 @@ title: 2022 Duels
 permalink: /2022-duels/
 ---
 ## 2022 Club Duels
-| Participant | Draw-a-Style | Makeshift Mashout | Scottish & Irish Ales | Session Ales | TBD | TBD | Total Points |
+ 
+
+| Brewer | Draw-a-Style | Makeshift Mashout | Scottish & Irish Ales | Session Ales | TBD | TBD | Total Points |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
-| Bryan | 1 | X | 1 | | | | 2 |
-| Eric | 1 | 2 | 3 | | | | 6 |
-| Jimmy/Bill | 2 | 3 | X | | | | 5 |
-| Joe | 1 | X | X | | | | 1 |
-| Josh | 2 | 2 | 2 | | | | 6 |
-| Richard D | 2 | 1 | X | | | | 3 |
-| Wick | 3 | 1 | 1 | | | | 5 |
+| Bryan | 1 | X | 1 | - | - | - | 2 |
+| Eric | 1 | 2 | 3 | - | - | - | 6 |
+| Jimmy/Bill | 2 | 3 | X | - | - | - | 5 |
+| Joe | 1 | X | X | - | - | - | 1 |
+| Josh | 2 | 2 | 2 | - | - | - | 6 |
+| Richard D | 2 | 1 | X | - | - | - | 3 |
+| Wick | 3 | 1 | 1 | - | - | - | 5 |
 
 ### Challenge 1: Draw-a-Style (February 2022)
 
@@ -79,7 +81,7 @@ permalink: /2022-duels/
 | Bryan | 2 |
 | Joe | 1 |
 
-### Challenge 4: TBD - August 2022
+### Challenge 4: Session Beers (Under 5%) - August 2022
 
 ### Challenge 5: TBD - October 2022
 

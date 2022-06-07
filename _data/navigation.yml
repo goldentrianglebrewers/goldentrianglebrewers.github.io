@@ -18,5 +18,16 @@ main:
   - title: "Events"
     url: /events/
 
+docs:
+  - title: Club Competitions
+    children:
+      - title: "2020 Last Brewer Standing"
+        url: /2020-last-brewer-standing
+      - title: "2021 Club Duels"
+        url: /2021-duels
+      - title: "2022 Club Duels"
+        url: /2022-duels
+
+
   # - title: "Sitemap"
   #   url: /sitemap
