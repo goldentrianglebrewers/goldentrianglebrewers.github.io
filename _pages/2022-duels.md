@@ -3,7 +3,7 @@ layout: single
 title: 2022 Duels
 permalink: /2022-duels/
 ---
-## 2021 Club Duels
+## 2022 Club Duels
 | Participant | Draw-a-Style | Makeshift Mashout | Scottish & Irish Ales | Session Ales | TBD | TBD | Total Points |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
 | Bryan | 1 | X | 1 | | | | 2 |
