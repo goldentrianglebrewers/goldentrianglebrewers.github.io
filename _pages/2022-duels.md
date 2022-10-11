@@ -109,7 +109,7 @@ permalink: /2022-duels/
 | Eric / Bryan   | Eric       |
 | Joe / Chris E   | Joe       |
 
-**Overall Winner: Eric**
+**Overall Winner: Joe**
 
 | Standings | Points | Final Points |
 | ----------- | ----------- | ----------- |
