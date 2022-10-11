@@ -82,6 +82,7 @@ permalink: /2022-duels/
 | Joe | 1 |
 
 ### Challenge 4: Session Beers (Under 5%) - August 2022
+
 | Match-up      | Winner |
 | ----------- | ----------- |
 | Joe / Wick     | Joe       |
@@ -101,6 +102,7 @@ permalink: /2022-duels/
 | Joe | 3 |
 
 ### Challenge 5: Draft - October 2022
+
 | Match-up      | Winner |
 | ----------- | ----------- |
 | Jimmy/Bill  / Wick     | Wick       |
