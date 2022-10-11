@@ -4,7 +4,7 @@ title: 2022 Duels
 permalink: /2022-duels/
 ---
 ## 2022 Club Duels
- 
+
 
 | Brewer | Draw-a-Style | Makeshift Mashout | Scottish & Irish Ales | Session Ales | TBD | TBD | Total Points |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
@@ -82,7 +82,42 @@ permalink: /2022-duels/
 | Joe | 1 |
 
 ### Challenge 4: Session Beers (Under 5%) - August 2022
+| Match-up      | Winner |
+| ----------- | ----------- |
+| Joe / Wick     | Joe       |
+| Eric / Josh   | Josh       |
+| Jimm/Bill / Bryan   | Bryan       |
 
-### Challenge 5: TBD - October 2022
+**Overall Winner: Bryan**
+
+| Standings | Points |
+| ----------- | ----------- |
+| Josh | 8 |
+| Eric | 7 |
+| Jimmy/Bill | 6 |
+| Wick | 6 |
+| Richard D | 3 |
+| Bryan | 5 |
+| Joe | 3 |
+
+### Challenge 5: Draft - October 2022
+| Match-up      | Winner |
+| ----------- | ----------- |
+| Jimmy/Bill  / Wick     | Wick       |
+| Eric / Bryan   | Eric       |
+| Joe / Chris E   | Joe       |
+
+**Overall Winner: Eric**
+
+| Standings | Points | Final Points |
+| ----------- | ----------- | ----------- |
+| Eric | 9 | 8 |
+| Josh | 8 | 8 |
+| Jimmy/Bill | 7 | 7 |
+| Wick | 8 | 7 |
+| Bryan | 6 | 6 |
+| Joe | 6 | 6 |
+| Richard D | 3 | 3 |
+| Chris E | 1 | 1 |
 
 ### Challenge 6: TBD - December 2022
