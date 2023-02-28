@@ -126,10 +126,10 @@ permalink: /2022-duels/
 ### Challenge 6: Wildcard - December 2022
 | Match-up      | Winner |
 | ----------- | ----------- |
-| Jimmy/Bill  / Josh     | Josh       |
-| Joe / Bryan   | Joe       |
-| Eric / Richard D   | Richard D      |
-| Wick   |  BYE | Wick    |
+| Jimmy/Bill  / Josh  | Josh  |
+| Joe / Bryan   | Joe   |
+| Eric / Richard D   | Richard D   |
+| Wick / BYE    | Wick    |
 
 **Overall Winner: Wick**
 
