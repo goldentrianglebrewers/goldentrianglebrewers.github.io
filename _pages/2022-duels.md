@@ -6,15 +6,16 @@ permalink: /2022-duels/
 ## 2022 Club Duels
 
 
-| Brewer | Draw-a-Style | Makeshift Mashout | Scottish & Irish Ales | Session Ales | TBD | TBD | Total Points |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
-| Bryan | 1 | X | 1 | - | - | - | 2 |
-| Eric | 1 | 2 | 3 | - | - | - | 6 |
-| Jimmy/Bill | 2 | 3 | X | - | - | - | 5 |
-| Joe | 1 | X | X | - | - | - | 1 |
-| Josh | 2 | 2 | 2 | - | - | - | 6 |
-| Richard D | 2 | 1 | X | - | - | - | 3 |
-| Wick | 3 | 1 | 1 | - | - | - | 5 |
+| Brewer | Draw-a-Style | Makeshift Mashout | Scottish & Irish Ales | Session Ales | TBD | TBD | Total Points | Final Points |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- | ----------- |
+| Bryan | 1 | X | 1 | 3 | 1 | 1 | 7 | 7 |
+| Eric | 1 | 2 | 3 | 1 | 2 | 1 | 10 | 9 |
+| Jimmy/Bill | 2 | 3 | X | 1 | 1 | 1 | 8 | 8 |
+| Joe | 1 | X | X | 2 | 3 | 2 | 8 | 8 |
+| Josh | 2 | 2 | 2 | 2 | X | 2 | 10 | 10 |
+| Richard D | 2 | 1 | X | X | X | 2 | 5 | 5 |
+| Wick | 3 | 1 | 1 | 1 | 2 | 3 | 11 | 10 |
+| Chris E | X | X | X | X | 1 | X | 1 | 1 |
 
 ### Challenge 1: Draw-a-Style (February 2022)
 
@@ -122,4 +123,23 @@ permalink: /2022-duels/
 | Richard D | 3 | 3 |
 | Chris E | 1 | 1 |
 
-### Challenge 6: TBD - December 2022
+### Challenge 6: Wildcard - December 2022
+| Match-up      | Winner |
+| ----------- | ----------- |
+| Jimmy/Bill  / Josh     | Josh       |
+| Joe / Bryan   | Joe       |
+| Eric / Richard D   | Richard D      |
+| Wick   |  BYE | Wick    |
+
+**Overall Winner: Wick**
+
+| Standings | Points | Final Points |
+| ----------- | ----------- | ----------- |
+| Wick | 11 | 10 |
+| Josh | 10 | 10 |
+| Eric | 10 | 9 |
+| Joe | 8 | 8 |
+| Jimmy/Bill | 7 | 7 |
+| Bryan | 7 | 7 |
+| Richard D | 5 | 5 |
+| Chris E | 1 | 1 |
