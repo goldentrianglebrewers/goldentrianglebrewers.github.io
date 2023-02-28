@@ -11,14 +11,15 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 
 | Brewer | Makeshift Mashout | TBD | TBD | TBD | Total Points |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
-| Josh | - | - | - | - | - |
+| Bryan | - | - | - | - | - |
 | Eric | - | - | - | - | - |
+| Jimmy / Bill |  - | - | - | - | - |
 | Joe |  - | - | - | - | - |
+| Josh | - | - | - | - | - |
 | Wick |  - | - | - | - | - |
 
 ### Makeshift Mashout Recipes
-<a href="{% link _pages/2023-recipes/makeshift-mashout/josh.md %}">Josh</a>  
-<a href="{% link _pages/2023-recipes/makeshift-mashout/eric.md %}">Eric</a>  
-<a href="{% link _pages/2023-recipes/makeshift-mashout/joe.md %}">Joe</a>  
-<a href="{% link _pages/2023-recipes/makeshift-mashout/wick.md %}">Wick</a>  
 
+| <a href="{% link _pages/2023-recipes/makeshift-mashout/bryan.md %}">Bryan</a> | <a href="{% link _pages/2023-recipes/makeshift-mashout/joe.md %}">Joe</a> |
+| <a href="{% link _pages/2023-recipes/makeshift-mashout/eric.md %}">Eric</a> | <a href="{% link _pages/2023-recipes/makeshift-mashout/wick.md %}">Wick</a> |
+| <a href="{% link _pages/2023-recipes/makeshift-mashout/josh.md %}">Josh</a>  |       |
