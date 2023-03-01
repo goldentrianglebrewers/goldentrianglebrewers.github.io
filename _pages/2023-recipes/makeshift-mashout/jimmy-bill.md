@@ -4,7 +4,7 @@ title: Jimmy/Bill - 2023 Makeshift Mashout Recipe
 permalink: /jimmy-bill-makeshift-mashout-2023
 ---
 
-# Makeshift Mashout Vienna
+# Helluva Helles
 
 - OG 1.068
 - FG 1.014

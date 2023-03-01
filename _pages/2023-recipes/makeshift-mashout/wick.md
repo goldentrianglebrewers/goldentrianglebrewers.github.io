@@ -4,7 +4,7 @@ title: Wick - 2023 Makeshift Mashout Recipe
 permalink: /wick-makeshift-mashout-2023
 ---
 
-# Vienna Lager
+# Tricky Saison
 
 - OG 1.072
 - FG 1.008
