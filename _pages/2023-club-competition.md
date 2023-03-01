@@ -21,5 +21,5 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 ### Makeshift Mashout Recipes
 
 | <a href="{% link _pages/2023-recipes/makeshift-mashout/bryan.md %}">Bryan</a> | <a href="{% link _pages/2023-recipes/makeshift-mashout/joe.md %}">Joe</a> |
-| <a href="{% link _pages/2023-recipes/makeshift-mashout/eric.md %}">Eric</a> | <a href="{% link _pages/2023-recipes/makeshift-mashout/wick.md %}">Wick</a> |
-| <a href="{% link _pages/2023-recipes/makeshift-mashout/josh.md %}">Josh</a>  |       |
+| <a href="{% link _pages/2023-recipes/makeshift-mashout/eric.md %}">Eric</a> | <a href="{% link _pages/2023-recipes/makeshift-mashout/josh.md %}">Josh</a>
+|  <a href="{% link _pages/2023-recipes/makeshift-mashout/jimmy-bill.md %}">Jimmy/Bill</a> |  <a href="{% link _pages/2023-recipes/makeshift-mashout/wick.md %}">Wick</a> |     |
