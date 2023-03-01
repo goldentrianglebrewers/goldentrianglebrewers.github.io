@@ -4,6 +4,7 @@ title: Joe - 2023 Makeshift Mashout Recipe
 permalink: /joe-makeshift-mashout-2023
 ---
 
+# Mardi Bock
 
 ### Fermentables
 - 8.5 lbs Pilsner Malt
