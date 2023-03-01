@@ -24,5 +24,5 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 | <a href="{% link _pages/2023-recipes/makeshift-mashout/eric.md %}">Eric's Baltic Porter</a> | <a href="{% link _pages/2023-recipes/makeshift-mashout/josh.md %}">Josh's Vienna Lager</a>
 | <a href="{% link _pages/2023-recipes/makeshift-mashout/jimmy-bill.md %}">Jimmy/Bill's Helluva Helles</a> |  <a href="{% link _pages/2023-recipes/makeshift-mashout/wick.md %}">Wick's Tricky Saison</a> |     |
 
-### Voting
+#### Makeshift Mashout Voting
 <a href="https://forms.gle/NrhQCsNYeENJMfC86" target="_blank">*Vote Here*</a>
