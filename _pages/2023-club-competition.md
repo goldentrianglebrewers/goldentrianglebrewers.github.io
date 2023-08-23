@@ -37,7 +37,8 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 Everyone at the meeting ranked the beers 1 - 6, except the brewers who ranked them 1 - 5. Above is the total of all the brewers votes. Golf rules here, lowest score wins. It was decided last night if there was a tie, we would award the brewers that were tied the highest amount of points. For instance, Joe and Josh tied for 1st, they both get 10 points and we had a tie for 4th, they'll receive 7 points each. 
 
 ## Tank 7 Clone Results
-| Brewer | Makeshift Mashout |
+
+| Brewer | Tank 7 Colne |
 | ----------- | ----------- | 
 | Bryan | 20 | 
 | Eric | 17 | 
