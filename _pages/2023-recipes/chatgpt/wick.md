@@ -1,8 +1,6 @@
-# Wick
+*I would like a 6 gallon homebrew recipe that will satisfy the palates a crispy bois lager drinker and a drinker of west coast IPAs.*
 
-<p>*I would like a 6 gallon homebrew recipe that will satisfy the palates a crispy bois lager drinker and a drinker of west coast IPAs.*</p>
-
-<p>Sure, Jeremy! I can help you come up with a recipe that combines the characteristics of both crispy lagers and hop-forward IPAs. Here's a 6-gallon homebrew recipe that might satisfy both palates:
+Sure, Jeremy! I can help you come up with a recipe that combines the characteristics of both crispy lagers and hop-forward IPAs. Here's a 6-gallon homebrew recipe that might satisfy both palates:
 
 Ingredients:
 - 10 lbs (4.5 kg) Pilsner malt
@@ -35,11 +33,10 @@ Instructions:
 16. Enjoy your homemade Crispy Bois Lager meets West Coast IPA!
 
 Remember to sanitize all equipment and follow proper brewing practices to ensure the best results. Cheers and happy brewing, Jeremy! Let me know if you need any further assistance.
-</p>
 
-<p>*What is a good water profile for this recipe?*</p>
+*What is a good water profile for this recipe?*
 
-<p>
+
 For this recipe, you can aim for a balanced water profile that enhances both the malty and hoppy characteristics of the beer. Here's a suggested water profile:
 
 Calcium (Ca): 50-100 ppm
@@ -57,5 +54,3 @@ To adjust your water profile, you can use brewing water additives like gypsum (c
 If you're new to water adjustments, you can also brew with distilled or reverse osmosis (RO) water and build up the desired profile from scratch using brewing salts. This gives you more control over the water chemistry, but it's also an extra step in the brewing process.
 
 Remember, water adjustments are optional, and you can still brew a great beer without them. It ultimately comes down to personal preference and experimentation.
-</p>
-
