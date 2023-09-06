@@ -48,5 +48,5 @@ Everyone at the meeting ranked the beers 1 - 6, except the brewers who ranked th
 
 ## ChatGPT Conversations
 
-| <a href="{% link _pages/2023-recipes/chatgpt/Joe.md %}">Joe</a> |
+| <a href="{% link _pages/2023-recipes/chatgpt/joe.md %}">Joe</a> |
  <a href="{% link _pages/2023-recipes/chatgpt/wick.md %}">Wick</a> |
