@@ -10,12 +10,13 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 
 | Brewer | Makeshift Mashout | Tank 7 Clone | AI Generated Recipe | TBD | Total Points |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
-| Bryan | 5 | 8 | - | - | 13 |
+| Bryan | 5 | 8 | 7 | 7 | 27 |
 | Eric | 7 | 9 | - | - | 16 |
 | Jimmy / Bill |  7 | 6 | - | - | 13 |
-| Joe |  10 | - | - | - | 10 |
+| Joe |  10 | - | 10 | 9 | 29 |
 | Josh | 10 | 8 | - | - | 18 |
-| Wick |  8 | 10 | - | - | 18 |
+| Wick |  8 | 10 | 9 | 10 | 37 |
+| Richard B | - | - | - | 8 | 8 |
 
 ### Makeshift Mashout Recipes
 
@@ -48,5 +49,23 @@ Everyone at the meeting ranked the beers 1 - 6, except the brewers who ranked th
 
 ## ChatGPT Conversations
 
-| <a href="{% link _pages/2023-recipes/chatgpt/joe.md %}">Joe</a> |
+| <a href="{% link _pages/2023-recipes/chatgpt/bryan.md %}">Bryan</a> |
+ <a href="{% link _pages/2023-recipes/chatgpt/joe.md %}">Joe</a> |
  <a href="{% link _pages/2023-recipes/chatgpt/wick.md %}">Wick</a> |
+
+| Brewer | Voting |
+| ----------- | ----------- | 
+| Joe | 4 | 
+| Wick | 6 | 
+| Bryan |  7 | 
+
+## Wild Card
+
+Wild card, aka what have I brewed recently that's good that might stand out. Richard B, pulled out something from the 2019 closet, with an Imperial Stout with Brettanomyces. Joe brought a Weizenbock, Bryan had a British Golden Ale, and Wick had an Imperial Stout. Bryan, those were hefty beers to be against. 
+
+| Brewer | Voting |
+| ----------- | ----------- | 
+| Wick | 16 | 
+| Joe | 18 | 
+| Richard B | 19 | 
+| Bryan | 27 | 
