@@ -8,7 +8,7 @@ This year we have reduced the amount of competitions from 6 to 4, with them bein
 
 The winning beer from each competition will recieve 10 points, 2nd place 9 points, and so on. If we have more than 10 entries one month, we'll start with the largest number. In 2022, we never had more than 9 entrants, it is assumed that starting with 10 will be safe. 
 
-| Brewer | Makeshift Mashout | Tank 7 Clone | AI Generated Recipe | TBD | Total Points |
+| Brewer | Makeshift Mashout | Tank 7 Clone | AI Generated Recipe | Wild Card | Total Points |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
 | Bryan | 5 | 8 | 7 | 7 | 27 |
 | Eric | 7 | 9 | - | - | 16 |
