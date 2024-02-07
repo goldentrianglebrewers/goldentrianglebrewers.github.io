@@ -17,7 +17,7 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 
 ### Makeshift Mashout Recipes
 
-| <a href="{% link _pages/2024-recipes/makeshift-mashout/bryan.md %}">Evan's Mashup Denke</a> | <a href="{% link _pages/2024-recipes/makeshift-mashout/eric.md %}">Eric's Dunkelweizen</a> | 
+| <a href="{% link _pages/2024-recipes/makeshift-mashout/evan.md %}">Evan's Mashup Denke</a> | <a href="{% link _pages/2024-recipes/makeshift-mashout/eric.md %}">Eric's Dunkelweizen</a> | 
 | <a href="{% link _pages/2024-recipes/makeshift-mashout/wick.md %}">Wick's Sup Bruh</a> |       |
 
 ## Makeshift Mashout Results
