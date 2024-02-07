@@ -13,6 +13,8 @@ main:
          url: /2022-duels
        - title: "2023 Club Competition"
          url: /2023-club-competition
+       - title: "2024 Club Competition"
+         url: /2024-club-competition  
   - title: "Articles"
     url: /year-archive/
   - title: "Board of Directors"
@@ -31,6 +33,8 @@ comps:
         url: /2022-duels
       - title: "2023 Club Competition"
         url: /2023-club-competition
+      - title: "2024 Club Competition"
+        url: /2024-club-competition
 
 
   # - title: "Sitemap"
