@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Joe - 2024 Saison Recipe
-permalink: /joe-saison-2024
+permalink: /joe-saison
 ---
 
 # Palindrome

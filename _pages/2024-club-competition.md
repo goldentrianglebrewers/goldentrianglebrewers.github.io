@@ -48,8 +48,9 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 
 ### Saison
 
-| <a href="{% link _pages/2024-recipes/saison/joe.md %}">Joe's Palindrome</a> |
+| <a href="{% link _pages/2024-recipes/saison/joe.md %}">Joe's Palindrome</a> | <a href="{% link _pages/2024-recipes/saison/evan.md %}"> Evan's Battre L'oie Saison</a> |
 
 | Brewer | Voting |
 | ----------- | ----------- | 
 | Joe | |
+| Evan | |
