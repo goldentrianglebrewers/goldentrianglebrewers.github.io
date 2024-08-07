@@ -8,13 +8,13 @@ This year we have reduced the amount of competitions from 6 to 4, with them bein
 
 The winning beer from each competition will recieve 10 points, 2nd place 9 points, and so on. If we have more than 10 entries one month, we'll start with the largest number. In 2022, we never had more than 9 entrants, it is assumed that starting with 10 will be safe. 
 
-| Brewer | Makeshift Mashout | Classic Style Under 5% | Draft | TBA | Total Points |
+| Brewer | Makeshift Mashout | Classic Style Under 5% | Saison | Draft | Total Points |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
 | Eric | 8 | 6 | - | - | 14 |
 | Evan | 7 | 8 | - | - | 15 |
 | Joe | 9 | 9 | - | - | 18 |
 | Richard D | X | 8 | - | - | 8 |
-| Wick |  10 | 10 | - | - | 20 |
+| Wick |  10 | 10 | X | - | 20 |
 
 
 ### Makeshift Mashout Recipes
