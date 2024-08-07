@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Joe - 2024 Saison Recipe
+title: Joe - 2024 Saison
 permalink: /joe-saison
 ---
 
@@ -22,4 +22,4 @@ permalink: /joe-saison
 - 3 oz Azaaca Dry Hop (3 days)
 
 ### Yeast
-- Bootleg Biology Mad Fermentationis Saison Blend
+- Bootleg Biology Mad Fermentationist Saison Blend
