@@ -46,5 +46,10 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 | Richard D | 28 |
 | Wick |  13 | 
 
-### Draft Your Recipe
+### Saison
 
+| <a href="{% link _pages/2024-recipes/saison/joe.md %}">Joe's Palindrome</a> |
+
+| Brewer | Voting |
+| ----------- | ----------- | 
+| Joe | |
