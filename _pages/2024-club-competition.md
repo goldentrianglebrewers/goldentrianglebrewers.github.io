@@ -57,8 +57,8 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 
 ### Brewing Draft
 
-| Brewer | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 | Round 7 | Round 8 (Optional) |
-| ----------- | ----------- | | ----------- | ----------- | | ----------- | ----------- | | ----------- | ----------- | | ----------- |
+| Brewer | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 | Round 7 | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | Wick | McEwans  | Flaked Oats | 2-row | Magnum | British Medium | Roasted Barley | Biscuit |
 | Bryan | Pilsner | Whitbred Dry | Munich | Willamette | English Brown | Honey Malt | Cocoa Nibs | 
 | John | Honey | Kviek | Hallertau Mittfrue | French Oak | Chocolate Wheat | Lemon Peel | 2-row |
