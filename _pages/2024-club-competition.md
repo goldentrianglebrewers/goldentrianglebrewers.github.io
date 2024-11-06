@@ -68,4 +68,6 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 | Joe | Golden Promise | Boddingtons | Golden Naked Oats | Citra | Carapils | Mosaic | El Dorado |
 | Chris / Richard | Fullers | Maris Otter | Challenger | Target | Crystal 60 | Pale Chocolate | X | 
 
+# Recipes
+
 | <a href="{% link _pages/2024-recipes/draft/joe.md %}">Joe</a> | <a href="{% link _pages/2024-recipes/draft/eric.md %}"> Eric</a> |  <a href="{% link _pages/2024-recipes/draft/wick.md %}">Wick</a> |
