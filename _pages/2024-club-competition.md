@@ -54,3 +54,18 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 | ----------- | ----------- | 
 | Joe | |
 | Evan | |
+
+### Brewing Draft
+
+| Brewer | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 | Round 7 | Round 8 (Optional) |
+| ----------- | ----------- | | ----------- | ----------- | | ----------- | ----------- | | ----------- | ----------- | | ----------- |
+| Wick | McEwans  | Flaked Oats | 2-row | Magnum | British Medium | Roasted Barley | Biscuit |
+| Bryan | Pilsner | Whitbred Dry | Munich | Willamette | English Brown | Honey Malt | Cocoa Nibs | 
+| John | Honey | Kviek | Hallertau Mittfrue | French Oak | Chocolate Wheat | Lemon Peel | 2-row |
+| Evan | Maris Otter | Chico | East Kent Goldings | Black Malt | Lactose | Chocolate | Vanilla |
+| Eric | French Saison | Pilsner | Vienna | Wheat | Victory | Fuggles | Goldings |
+| Josh | Weihenstphan | Pale Ale | Flaked Maize | Motueka | Red X | Acidulated Malt | X | 
+| Joe | Golden Promise | Boddingtons | Golden Naked Oats | Citra | Carapils | Mosaic | El Dorado |
+| Chris / Richard | Fullers | Maris Otter | Challenger | Target | Crystal 60 | Pale Chocolate | X | 
+
+| <a href="{% link _pages/2024-recipes/draft/joe.md %}">Joe</a> | <a href="{% link _pages/2024-recipes/draft/eric.md %}"> Eric</a> |  <a href="{% link _pages/2024-recipes/draft/wick.md %}">Wick</a> |
