@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Josh - 2025 Speciality IPA
-permalink: /josh-speciality-ipa
+title: Josh - 2025 Specialty IPA
+permalink: /josh-specialty-ipa
 ---
 
 # Red Rye IPA

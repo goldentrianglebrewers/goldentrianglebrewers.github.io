@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Joe - 2025 Speciality IPA
-permalink: /joe-speciality-ipa
+title: Joe - 2025 Specialty IPA
+permalink: /joe-specialty-ipa
 ---
 
 # Sea of Tragi...

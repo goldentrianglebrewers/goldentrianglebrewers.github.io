@@ -1,10 +1,10 @@
 ---
 layout: single
-title: Bryan - 2025 Speciality IPA
-permalink: /bryan-speciality-ipa
+title: Bryan - 2025 Specialty IPA
+permalink: /bryan-specialty-ipa
 ---
 
-# Belgian White Ale
+# Belgian White IPA
 
 ### Fermentables
 - 7 lb Pilsner Malt

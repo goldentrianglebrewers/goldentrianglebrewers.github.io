@@ -13,6 +13,7 @@ If you have any questions, comments, complaints, drop me an email at <events@gtr
 <a href="{% link _pages/2022-duels.md %}">2022 Duels</a>
 <a href="{% link _pages/2023-club-competition.md %}">2023 Club Competitions</a>
 <a href="{% link _pages/2024-club-competition.md %}">2024 Club Competitions</a>
+<a href="{% link _pages/2025-club-competition.md %}">2025 Club Competitions</a>
 
 
 ## 2021 Club Duels

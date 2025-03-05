@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Wick - 2025 Speciality IPA
-permalink: /wick-speciality-ipa
+title: Wick - 2025 Specialty IPA
+permalink: /wick-specialty-ipa
 ---
 
 # I Rye with my Little Eye
