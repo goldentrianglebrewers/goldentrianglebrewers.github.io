@@ -4,7 +4,7 @@ title: Joe - 2025 Specialty IPA
 permalink: /joe-specialty-ipa
 ---
 
-# Sea of Tragi...
+# Sea of Tragic Beasts
 
 ### Fermentables
 - 12 lb 2-row
