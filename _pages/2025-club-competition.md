@@ -16,7 +16,7 @@ The winning beer from each competition will recieve 10 points, 2nd place 9 point
 ### Speciality IPA Recipe
 
 | <a href="{% link _pages/2025-recipes/specialty-ipa/bryan.md %}">Bryan's Belgian White Ale</a> | <a href="{% link _pages/2025-recipes/specialty-ipa/josh.md %}">Josh's Red Rye IPA</a> | 
-|  <a href="{% link _pages/2025-recipes/specialty-ipa/joe.md %}">Joe's Sea of Tragi...</a> | <a href="{% link _pages/2025-recipes/specialty-ipa/wick.md %}">Wick's I Rye with my Little Eye</a>  |
+|  <a href="{% link _pages/2025-recipes/specialty-ipa/joe.md %}">Joe's Sea of Tragic Beasts</a> | <a href="{% link _pages/2025-recipes/specialty-ipa/wick.md %}">Wick's I Rye with my Little Eye</a>  |
 
 ##  Speciality IPA Results
 
